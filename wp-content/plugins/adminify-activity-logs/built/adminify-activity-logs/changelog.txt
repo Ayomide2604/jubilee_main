@@ -1,0 +1,33 @@
+== Changelog ==
+= 1.0.9 (21-05-2026) =
+Updated: Plugin Title Update 
+
+= 1.0.8 (21-05-2026) =
+Added: Recommended suggest plugins options added.
+Updated: Performance Improved.
+Updated: WordPress 7.0 compatibility checked
+
+= 1.0.7 (05-02-2026) =
+Fixed: Resolved a conflict with the Loginify plugin that caused URL routing issues.
+
+
+= 1.0.6.3 (14-10-2025) =
+* Fixed: Fixed footer inconsistency on the Activity Log page
+* Fixed: pagination on activity log page
+* UI: Improved UI.
+
+= 1.0.6.2 (14-10-2025) =
+* Fixed: Adminify Plugin dependency
+* Updated: Activity logs table
+* Improvement: Updated Dependency
+
+= 1.0.6.1 (14-10-2025) =
+* Fixed: Fixed Fatal error 
+* UI Improvement: UI Updated
+* Improvement: Updated Dependency
+
+= 1.0.6 (12-10-2025) =
+* Fixed: class missing error
+
+= 1.0.1 (02-09-2024) =
+* Removed: Unnecessary file removed
